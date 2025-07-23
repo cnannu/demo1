@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h1{
+    margin-bottom: 87px;
+    margin-top: 36px;
+}
+.poster-1{
+    margin: 0px 1000px 0px 20px ;
+}
+.poster-2{
+    margin: -236px 0px 0px 0px ;
+}
+.poster-3{
+    margin: -240x 0px 0px 1000px ;
+}
+p{
+    padding: 89px 100px 89px 100px;
+}
