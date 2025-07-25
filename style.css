@@ -11,16 +11,9 @@ h1{
     margin-top: 36px;
 }
 
-.poster-1{
-    margin: 0px 1000px 0px 20px ;
-}
-
-.poster-2{
-    margin: -236px 0px 0px 0px ;
-}
-
-.poster-3{
-    margin: -230px 0px 0px 1000px ;
+.poster-1 , .poster-2,.poster-3 {
+    display: inline-block;
+    margin: 0px 83px;
 }
 
 p{
